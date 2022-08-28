@@ -1,5 +1,5 @@
 # monkeytype-clone
-monkeytyple-clone is a simple, WIP, implementation of [monkeytype](https://www.monkeytype.com), written in JS using the [Vue](https://vuejs.org/) framework.
+monkeytype-clone is a simple, WIP, implementation of [monkeytype](https://www.monkeytype.com), written in JS using the [Vue](https://vuejs.org/) framework.
 
 ## Project setup
 ```
